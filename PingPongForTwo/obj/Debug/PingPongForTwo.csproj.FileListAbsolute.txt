@@ -1,0 +1,10 @@
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\bin\Debug\PingPongForTwo.exe.config
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\bin\Debug\PingPongForTwo.exe
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\bin\Debug\PingPongForTwo.pdb
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.csprojAssemblyReference.cache
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.Properties.Resources.resources
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.csproj.GenerateResource.cache
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.csproj.CoreCompileInputs.cache
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.exe
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.pdb
+C:\Users\dimik\source\repos\PingPongForTwo\PingPongForTwo\obj\Debug\PingPongForTwo.Form1.resources
